@@ -1,0 +1,12 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-14012013-061000";"";
+"REFERENCE";"301-12";"";
+"TraceParts.PartTitle";"Model 301 – .88" (22.3 mm) over travel, low profile, loads up to 175 lbs. (80 kg) per pair, non-disconnect, optional enclosure mounting brackets available.";"";
+"TraceParts.InstanceId";"10-14012013-0610002XVAU65NC3ONZ6BL2AYBANXZA";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartVersion";"1.1.1";"";
+"SUPPLIER";"ACCURIDE";"";
+"DESIGN";"Part Number:301-12, Length:12.00[305], Travel:12.88[327] (inches [mm])";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"ACCURIDE:/F_ACCURIDE/ACCURIDE.050/ACCURIDE.050.010/10-14012013-061000";"";
